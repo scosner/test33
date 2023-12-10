@@ -8,7 +8,7 @@ cdwadimensionsdescription,Canvas Dimensions,,,DCTERMS.format,size
 cdwaprovenancedescription,Provenance,,,DCTERMS.source,acquiredFrom
 cdwaobjectworktype,Type,,,DCTERMS.type,description
 cdwarespositorygeographiclocation,Collection Stamp,,,DCTERMS.description,location
-cdwavenue nameplace,Last Exhibit Location,,,DCTERMS.description,location
-cdwapersoncorporate body authority,Photographer Stamp,,,DCTERMS.creator,creator
+cdwavenuenameplace,Last Exhibit Location,,,DCTERMS.description,location
+cdwapersoncorporatebodyauthority,Photographer Stamp,,,DCTERMS.creator,creator
 cdwarelatedtextualreferences,Bibliographic References,,,DCTERMS.relation.isreferencedby,mention
 cdwaimagereferences,Related Works,,,DCTERMS.relation.isreferencedby,subject;subjectOf
