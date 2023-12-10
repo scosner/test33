@@ -1,14 +1,14 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-title,Title,,,DCTERMS.title,headline
-creator,Creator,,,DCTERMS.creator,creator
-date,Date Created,,,DCTERMS.date,dateCreated
-description,Description,,,DCTERMS.description,description
-subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
-source,Source,,,,
-identifier,Source Identifier,,,,
-type,Type,,,DCTERMS.type,
-format,Format,,,,encodingFormat
-rightsstatement,,,,DCTERMS.rights,license
+title,Title,,,DCTERMS.title,name
+cdwacreatoridentity,Creator,,,DCTERMS.creator,creator
+subject,Subject,,,DCTERMS.subject,about
+cdwastyleperioddescription,Style,,,DCTERMS.coverage.temporal,genre
+cdwacreationdate,Date,,,DCTERMS.coverage,dateCreated
+cdwadimensionsdescription,Canvas Dimensions,,,DCTERMS.format,size
+cdwaprovenancedescription,Provenance,,,DCTERMS.source,acquiredFrom
+cdwaobjectworktype,Type,,,DCTERMS.type,description
+cdwarespositorygeographiclocation,Collection Stamp,,,DCTERMS.description,location
+cdwavenue nameplace,Last Exhibit Location,,,DCTERMS.description,location
+cdwapersoncorporate body authority,Photographer Stamp,,,DCTERMS.creator,creator
+cdwarelatedtextualreferences,Bibliographic References,,,DCTERMS.relation.isreferencedby,mention
+cdwaimagereferences,Related Works,,,DCTERMS.relation.isreferencedby,subject;subjectOf
