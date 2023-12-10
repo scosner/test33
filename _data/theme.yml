@@ -104,7 +104,7 @@ font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/c
 # THEME ICONS [optional!]
 # default icons can be overridden or new icons can be added using "icons" object
 # the template uses Bootstrap Icons, https://icons.getbootstrap.com/
-# find the names on the BI icons page, e.g. file-image
+# find the names on the BI iconsk page, e.g. file-image
 #
 # icons: 
 #   icon-image: image
