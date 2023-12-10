@@ -7,7 +7,7 @@ cdwacreationdate,Date,,,DCTERMS.coverage,dateCreated
 cdwadimensionsdescription,Canvas Dimensions,,,DCTERMS.format,size
 cdwaprovenancedescription,Provenance,,,DCTERMS.source,acquiredFrom
 cdwaobjectworktype,Type,,,DCTERMS.type,description
-cdwarespositorygeographiclocation,Collection Stamp,,,DCTERMS.description,location
+cdwarepositorygeographiclocation,Collection Stamp,,,DCTERMS.description,location
 cdwavenuenameplace,Last Exhibit Location,,,DCTERMS.description,location
 cdwapersoncorporatebodyauthority,Photographer Stamp,,,DCTERMS.creator,creator
 cdwarelatedtextualreferences,Bibliographic References,,,DCTERMS.relation.isreferencedby,mention
